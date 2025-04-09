@@ -1,4 +1,5 @@
 🚀 Coffee Shop Website is a fully responsive coffee shop website using HTML, CSS, and JavaScript to enhance user experience and engagement. Implemented JavaScript-based dynamic features such as a product gallery, contact form validation, and a user-friendly ordering interface.
+
 🌐 **Website Features:**
 1. Header with navigation bar
 2. About section - Description of Coffee Shop
@@ -7,7 +8,7 @@
 5. Contact section - contact details
 6. Forms - order form to order something, contact form to contact us.
 
-screenshots of coffee shop website:
+**Screenshots of Coffee Shop Website:**
 
 ![Screenshot 2025-04-09 195435](https://github.com/user-attachments/assets/3b470617-d3cb-4d88-98a7-073d905b6398)
 
